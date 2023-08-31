@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BL.Enitiies.ActivityTypeExtention">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enitiies\Activity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.Enitiies.Activitiy">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAICACAAAAAggABAAAAAAAAAGAGAAAADAAACAAgACAA=</HashCode>
+      <FileName>Enitiies\Activity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.Enitiies.BalanceMachine">
+    <Position X="4.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAAQAAgABEAEgCAAQAAAEAAAACAAAAAIAAAAA=</HashCode>
+      <FileName>Enitiies\BalanceMachine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.Enitiies.BillTypeExtention">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Enitiies\Bill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.Enitiies.Bill" BaseTypeListCollapsed="true">
+    <Position X="13.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AMICYKDAUQChgFDMGgAABBAACSGIQgAGawABAQBQCEA=</HashCode>
+      <FileName>Enitiies\Bill.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Person" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BL.Enitiies.BillPayment">
+    <Position X="9.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAhCAAAAAQABgAAQAAAACAAAAQCAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Enitiies\BillPayment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.Enitiies.Category">
+    <Position X="13" Y="12.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAgBBECAACJAQAAAEAAAAGAAAAAAAwAAA=</HashCode>
+      <FileName>Enitiies\Category.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BL.Enitiies.EmpExtention">
+    <Position X="2.25" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enitiies\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.Enitiies.Employee">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAQCAAAAAAEABCAQAAAAAAAAEgAAACAQAAAAAAAAA=</HashCode>
+      <FileName>Enitiies\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.Enitiies.EmpOutgoings">
+    <Position X="7" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYCAAAAAAABAABAAIAACAAACAEAAAACAABAAAAACAA=</HashCode>
+      <FileName>Enitiies\EmpOutgoings.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Employee" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BL.Enitiies.Person">
+    <Position X="4.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICgAAAAAAAgABQAQACAAQIAAEAAAACCQgCIAAAAAA=</HashCode>
+      <FileName>Enitiies\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.Enitiies.ItemStateExtention">
+    <Position X="3" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enitiies\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.Enitiies.Item">
+    <Position X="0.5" Y="10.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>FAKhAAAAgAEABEFAAgAjAAQYFAEIEAECCAAgAAgAETg=</HashCode>
+      <FileName>Enitiies\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.Enitiies.ItemInBill">
+    <Position X="10.25" Y="11" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAJCAIAAAQAAAAREoAAACAQAAAUAQIACABAEAEAAACA=</HashCode>
+      <FileName>Enitiies\ItemInBill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.Enitiies.ItemInStore">
+    <Position X="4.75" Y="10.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EANCAIAABQAIgABUMACACCIAQQUAAAACABAAkQBAAAA=</HashCode>
+      <FileName>Enitiies\ItemInStore.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Store" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BL.Enitiies.OperationTypeExtention">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enitiies\MachineOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.Enitiies.MachineOperation">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIiAAAAASABgABEAAAACAAAAQGAAAADAQACAAAAAAA=</HashCode>
+      <FileName>Enitiies\MachineOperation.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Machine" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BL.Enitiies.OutGoings">
+    <Position X="9" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAICACCAAQAggABAAAAAAAAAAQGAAAADAQACAAAAAEA=</HashCode>
+      <FileName>Enitiies\OutGoings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.Enitiies.Store">
+    <Position X="8" Y="12" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAAAAAgARAAAACAAQACAEAAAACCAAAIAABCAA=</HashCode>
+      <FileName>Enitiies\Store.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="BL.Enitiies.ActivityType">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAACAAAAApAAAAAAAAAAAAAAEAgAASAAAAAACAAAA=</HashCode>
+      <FileName>Enitiies\Activity.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BL.Enitiies.BillType">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enitiies\Bill.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BL.Enitiies.EmpPermission">
+    <Position X="2.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAIAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enitiies\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BL.Enitiies.ItemState">
+    <Position X="3" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Enitiies\Item.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BL.Enitiies.OperationType">
+    <Position X="11.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAEAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Enitiies\MachineOperation.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

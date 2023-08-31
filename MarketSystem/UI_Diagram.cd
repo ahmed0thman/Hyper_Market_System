@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MarketSystem.MyTools">
+    <Position X="5.5" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>MyTools.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MarketSystem.ToggleButton">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="MarketSystem.ToggleButton.SliderChangedEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CustomWidget\ToggleButton\ToggleButton.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AsCBEAAAAAAAAAAAYAIBqAACAQAAAAEFKAAAEAABAQA=</HashCode>
+      <FileName>CustomWidget\ToggleButton\ToggleButton.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="rect" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MarketSystem.MyRectangle">
+    <Position X="3.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAACAAAAAYAQAAAAAACACAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>CustomWidget\ToggleButton\MyRectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MarketSystem.Form1">
+    <Position X="5.75" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="MarketSystem.Form1.LogOut" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>/wABY5oAR7AAKRQwQoCAQIDikgACQQAGQKxgIUD/A7I=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MarketSystem.FormLgn">
+    <Position X="8.75" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAgAAEAQACAACBAAAACABAASAAAgQAAIAIAAIQBQAAA=</HashCode>
+      <FileName>FormLgn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MarketSystem.Windows.CustomeMessageDialogue">
+    <Position X="11.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAKQECAAAAACAAAASAEAAAAACAIAAAQBCAAA=</HashCode>
+      <FileName>Windows\CustomeMessageDialogue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MarketSystem.Windows.FormWindowContainer">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="MarketSystem.Windows.FormWindowContainer.CloseForm" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Windows\FormWindowContainer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAQLBACZAAAACAAAACAAAAQAIAAIAAAQAAAIA=</HashCode>
+      <FileName>Windows\FormWindowContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MarketSystem.Windows.WindowCilentBillsOptions">
+    <Position X="3.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgCAAAAACAAAACAAAAQACABIAAAQACEAA=</HashCode>
+      <FileName>Windows\WindowCilentBillsOptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MarketSystem.Windows.WindowEditStoreItemInfo">
+    <Position X="8.25" Y="4" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="MarketSystem.Windows.WindowEditStoreItemInfo.ClickBtnSave" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Windows\WindowEditStoreItemInfo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="MarketSystem.Windows.WindowEditStoreItemInfo.RefershData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Windows\WindowEditStoreItemInfo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CAgAAAAAACAAGBABABCAAAQmAABAQAAAAIAIhQCSgAA=</HashCode>
+      <FileName>Windows\WindowEditStoreItemInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MarketSystem.Windows.WindowHandleDepts">
+    <Position X="13" Y="7" Width="3" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="MarketSystem.Windows.WindowHandleDepts.RefreshData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Windows\WindowHandleDepts.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CAAAAAgAIiAAiBAAAAKAAACCAAARYIAAAIAIAQCSAGA=</HashCode>
+      <FileName>Windows\WindowHandleDepts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MarketSystem.Windows.WindowTransferItem">
+    <Position X="8" Y="9.25" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="MarketSystem.Windows.WindowTransferItem.ClickBtnSave" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Windows\WindowTransferItem.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="MarketSystem.Windows.WindowTransferItem.RefershData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Windows\WindowTransferItem.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICAACBAAAACAAAAiAABIQAAAAIAIgQACAAA=</HashCode>
+      <FileName>Windows\WindowTransferItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MarketSystem.Windows.MessageType">
+    <Position X="11.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\CustomeMessageDialogue.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MarketSystem.Windows.MsgResult">
+    <Position X="11.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Windows\CustomeMessageDialogue.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

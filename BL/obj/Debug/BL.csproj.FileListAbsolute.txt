@@ -1,0 +1,14 @@
+D:\Work\C#\MarketSystem\BL\bin\Debug\BL.pdb
+D:\Work\C#\MarketSystem\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\Work\C#\MarketSystem\BL\obj\Debug\BL.pdb
+D:\Work\C#\MarketSystem\BL\bin\Debug\BL.dll.config
+D:\Work\C#\MarketSystem\BL\bin\Debug\BL.dll
+D:\Work\C#\MarketSystem\BL\obj\Debug\BL.dll
+D:\Work\C#\MarketSystem\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\WorkForClients\MarketSystem\BL\bin\Debug\BL.dll.config
+D:\WorkForClients\MarketSystem\BL\bin\Debug\BL.dll
+D:\WorkForClients\MarketSystem\BL\bin\Debug\BL.pdb
+D:\WorkForClients\MarketSystem\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\WorkForClients\MarketSystem\BL\obj\Debug\BL.dll
+D:\WorkForClients\MarketSystem\BL\obj\Debug\BL.pdb
+D:\WorkForClients\MarketSystem\BL\obj\Debug\BL.csproj.AssemblyReference.cache
